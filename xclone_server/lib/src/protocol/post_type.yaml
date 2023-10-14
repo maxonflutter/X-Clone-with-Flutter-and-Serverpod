@@ -1,0 +1,8 @@
+enum: PostType
+values: 
+  - text
+  - image
+  - video
+  - poll
+  - repost
+  - quote
